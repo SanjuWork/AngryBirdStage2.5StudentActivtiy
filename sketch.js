@@ -61,5 +61,5 @@ function draw(){
     log5.display();
 
     bird.display();
-	playground.display(); //added comment
+	playground.display(); //second comment
 }
